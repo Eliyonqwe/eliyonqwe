@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/eliyonzm" target="_blank"><img src="https://img.shields.io/twitter/follow/eliyonzm?logo=twitter&style=for-the-badge" alt="eliyonzm" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning ****
 
-- 📫 How to reach me **eliyonzmz@gmail.com**
+- 📫 How to reach me ****
 
 - ⚡ Fun fact **I love playing 🎹**
 
